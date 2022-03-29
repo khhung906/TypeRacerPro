@@ -1,5 +1,5 @@
 ## About TypeRacerPro
-TypeRacerPro is a selenium bot for 
+TypeRacerPro is a selenium bot for typeracer
 
 More details on the typeracer can be found at [typeracer.com](https://play.typeracer.com/).
 
