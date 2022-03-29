@@ -13,9 +13,7 @@ Many sections show applications that require smaller specialized Python modules.
 
 ### Setup & Installation
 
-Install all the dependencies.
-
-Install the web driver of chrome. You can download [here](https://chromedriver.chromium.org/downloads) 
+Install all the dependencies and the web driver of chrome. You can download [here](https://chromedriver.chromium.org/downloads) 
 
 Open a terminal in the TypeRacerPro directory and run (with sudo if needed on your system):
 
