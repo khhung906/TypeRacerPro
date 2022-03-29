@@ -17,7 +17,7 @@ Install all the dependencies and the web driver of chrome. You can download [her
 
 Open a terminal in the TypeRacerPro directory and run (with sudo if needed on your system):
 
-	python main.py --speed {wpm_speed}
+	python main.py --speed wpm_speed --drive_path path_to_drive
 
 ### License
 
